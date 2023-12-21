@@ -1,0 +1,147 @@
+.video-1{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    transform: translateX(calc((100%-100vw)/2));
+    z-index: -2;
+}
+
+.titulo{
+    font-family: 'Harry Potter', sans-serif;
+    /* color: #00717f; */
+    color: #ffffff;
+    text-shadow: 0 0 15px #6aa3bd;
+    /* text-shadow: 0 0 15px #000000;  */
+    font-size: 65px;
+                                         
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+
+/* .primer{
+    display: flex;
+    align-items: center;   
+    justify-content: center;
+    height: 100vh;
+} */
+
+.vd{
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #000;
+    opacity: .35;
+
+}
+
+.btn{
+    width: 100px;
+}
+/* .jugar{
+    font-family: 'Harry Potter', sans-serif;
+    color: #00717f; 
+    color: #ffffff;
+    text-shadow: 0 0 15px #000000; 
+    font-size: 45px;
+    
+} */
+
+
+
+
+
+/* parte 2 */
+.linaje-1{
+    font-family: 'Harry Potter', sans-serif;
+}
+.linaje-2{
+    font-family: 'Harry Potter', sans-serif;
+}
+.linaje-3{
+    font-family: 'Harry Potter', sans-serif;
+}
+
+.cualidad-1{
+    font-family: 'Harry Potter', sans-serif;
+}
+.cualidad-2{
+    font-family: 'Harry Potter', sans-serif;
+}
+.cualidad-3{
+    font-family: 'Harry Potter', sans-serif;
+}
+.cualidad-4{
+    font-family: 'Harry Potter', sans-serif;
+}
+
+/* .this{
+    display: flex;
+    align-items: center;
+    font-family: 'Harry Potter', sans-serif;
+} */
+
+/* .fondo{
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+ */
+.form-label{
+    color: white;
+    text-shadow: 0 0 15px #000000;
+    font-family: 'Harry Potter', sans-serif;
+    font-size: 30px;
+    
+}
+
+.vd1{
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #000;
+    opacity: .50;
+}
+
+
+
+
+
+/* parte 3 */
+.vd2{
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #000;
+    opacity: .40;
+}
+
+.sub{
+    font-family: 'Harry Potter', sans-serif;
+    /* color: #00717f; */
+    color: #ffffff;
+    text-shadow: 0 0 15px #6aa3bd;
+    /* text-shadow: 0 0 15px #000000;  */
+    font-size: 35px;
+}
+
+.sub1{
+    font-family: 'Harry Potter', sans-serif;
+    color: white;
+  /*   display: flex;
+    align-items: center;
+    justify-content: center; */
+    font-size: 38px;
+    text-shadow: 0 0 15px #88e0ef;
+}
